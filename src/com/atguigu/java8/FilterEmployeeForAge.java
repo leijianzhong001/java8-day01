@@ -3,6 +3,7 @@ package com.atguigu.java8;
 public class FilterEmployeeForAge implements MyPredicate<Employee>{
 
     /**
+     * 我这边加了点注释
      * 小艾这边也加了点注释
      * @param t
      * @return
