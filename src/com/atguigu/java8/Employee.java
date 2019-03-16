@@ -7,7 +7,7 @@ public class Employee {
 	private int age;
 	private double salary;
 
-	public Employee() {
+	public Employee() {颠三倒四多所多
 	}
 
 	public Employee(String name) {
