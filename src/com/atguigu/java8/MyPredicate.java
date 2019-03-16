@@ -9,5 +9,11 @@ public interface MyPredicate<T> {
 	 * @return
 	 */
 	public boolean test(T t);
+    public boolean test(T t);
+    public boolean test(T t);
+    public boolean test(T t);
+    public boolean test(T t);
+    public boolean test(T t);
+    public boolean test(T t);
 	
 }
